@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/col42dev/FactoryMethod.git",
-    "revision": "8f01f574d181495f346a8f5cad8a5cbb3362eb71"
+    "url": "git@github.com:col42dev/CustomPackageTest.git",
+    "revision": "682ba7db5297fb9074e44b33913c046194a563db"
   }  
 }
